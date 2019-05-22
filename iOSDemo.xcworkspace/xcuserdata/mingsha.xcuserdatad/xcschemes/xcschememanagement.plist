@@ -3,13 +3,20 @@
 <plist version="1.0">
 <dict>
 	<key>SchemeUserState</key>
-	<dict/>
-	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>15D5D86B22951ADA009DF3F6</key>
+		<key>Pods-iOSDemo.xcscheme</key>
 		<dict>
-			<key>primary</key>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>iOSDemo.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
 			<true/>
+			<key>orderHint</key>
+			<integer>5</integer>
 		</dict>
 	</dict>
 </dict>
